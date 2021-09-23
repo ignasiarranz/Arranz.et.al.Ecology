@@ -1,0 +1,101 @@
+Spc,SpcNameCommon,SpcNameScientific
+13,Silver lamprey,Ichthyomyzon unicuspis
+31,Lake Sturgeon,Acipenser fulvescens
+41,Longnose gar,Lepisosteus osseus
+51,Bowfin,Amia calva
+61,Alewife,Alosa pseudoharengus
+63,Gizzard shad,Dorosoma cepedianum
+75,Chinook salmon,Oncorhynchus tshawytscha
+76,Rainbow trout,Oncorhynchus mykiss
+80,Brook trout,Salvelinus fontinalis
+81,Lake Trout,Salvelinus namaycush
+82,Splake,Salvelinus fontinalis x Salvelinus namaycush
+90,WHITEFISH subfamily,COREGONINAE
+91,Lake  whitefish,Coregonus clupeaformis
+93,Cisco,Coregonus artedi
+101,Pygmy whitefish,Prosopium coulteri
+102,Round whitefish,Prosopium cylindraceum
+106,Coregonus sp.,Coregonus sp.
+121,Rainbow smelt,Osmerus mordax
+131,Northern pike,Esox lucius
+132,Muskellunge,Esox masquinongy
+133,Grass Pickerel,Esox americanus vermiculatus
+141,Central mudminnow,Umbra limi
+151,Goldeye,Hiodon alosoides
+152,Mooneye,Hiodon tergisus
+160,SUCKERS,CATOSTOMIDAE
+161,Quillback,Carpiodes cyprinus
+162,Longnose sucker,Catostomus catostomus
+163,White sucker,Catostomus commersonii
+168,Silver redhorse,Moxostoma anisurum
+170,Golden redhorse,Moxostoma erythrurum
+171,Shorthead redhorse,Moxostoma macrolepidotum
+172,Greater redhorse,Moxostoma valenciennesi
+173,River redhorse,Moxostoma carinatum
+177,Moxostoma sp.,Moxostoma sp.
+180,CARPS and MINNOWS,CYPRINIDAE
+182,Northern redbelly dace,Phoxinus eos
+183,Finescale dace,Phoxinus neogaeus
+185,Lake chub,Couesius plumbeus
+186,Common carp,Cyprinus carpio
+192,Hornyhead chub,Nocomis biguttatus
+194,Golden shiner,Notemigonus crysoleucas
+196,Emerald shiner,Notropis atherinoides
+197,Bridle shiner,Notropis bifrenatus
+198,Common shiner,Luxilus cornutus
+199,Blackchin shiner,Notropis heterodon
+200,Blacknose shiner,Notropis heterolepis
+201,Spottail shiner,Notropis hudsonius
+202,Rosyface shiner,Notropis rubellus
+203,Spotfin shiner,Cyprinella spiloptera
+204,Sand shiner,Notropis stramineus
+206,Mimic shiner,Notropis volucellus
+208,Bluntnose minnow,Pimephales notatus
+209,Fathead minnow,Pimephales promelas
+210,Eastern blacknose dace,Rhinichthys atratulus
+211,Longnose dace,Rhinichthys cataractae
+212,Creek chub,Semotilus atromaculatus
+213,Fallfish,Semotilus corporalis
+214,Pearl dace,Margariscus margarita
+217,Striped shiner,Luxilus chrysocephalus
+224,Notropis sp.,Notropis sp.
+231,Black bullhead,Ameiurus melas
+232,Yellow bullhead,Ameiurus natalis
+233,Brown bullhead,Ameiurus nebulosus
+234,Channel catfish,Ictalurus punctatus
+238,Margined madtom,Noturus insignis
+261,Banded killifish,Fundulus diaphanus
+271,Burbot,Lota lota
+280,STICKLEBACKS,GASTEROSTEIDAE
+281,Brook stickleback,Culaea inconstans
+282,Threespine stickleback,Gasterosteus aculeatus
+283,Ninespine stickleback,Pungitius pungitius
+291,Trout-perch,Percopsis omiscomaycus
+302,White bass,Morone chrysops
+310,SUNFISHES,CENTRARCHIDAE
+311,Rock bass,Ambloplites rupestris
+312,Green sunfish,Lepomis cyanellus
+313,Pumpkinseed,Lepomis gibbosus
+314,Bluegill,Lepomis macrochirus
+315,Longear sunfish,Lepomis megalotis
+316,Smallmouth bass,Micropterus dolomieu
+317,Largemouth bass,Micropterus salmoides
+319,Black crappie,Pomoxis nigromaculatus
+320,Lepomis sp.,Lepomis sp.
+331,Yellow perch,Perca flavescens
+332,Sauger,Sander canadensis
+334,Walleye,Sander vitreus
+338,Iowa darter,Etheostoma exile
+341,Johnny darter,Etheostoma nigrum
+342,Logperch,Percina caprodes
+347,Sander sp.,Sander sp.
+361,Brook silverside,Labidesthes sicculus
+366,Round goby,Neogobius melanostomus
+371,Freshwater drum,Aplodinotus grunniens
+380,SCULPINS,COTTIDAE
+381,Mottled sculpin,Cottus bairdii
+382,Slimy sculpin,Cottus cognatus
+383,Spoonhead sculpin,Cottus ricei
+384,Deepwater sculpin,Myoxocephalus thompsonii
+702,Pumpkinseed x Bluegill,Lepomis gibbosus x Lepomis macrochirus
+999,Multiple Species,

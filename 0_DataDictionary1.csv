@@ -1,0 +1,25 @@
+Name,Description,FileNumber
+"Lake,Unique number identifying a lake (1 to 639),""1,2,3"""
+BIOCON,Biomass conservation (estimated from slope of the normalized biomass size specturm),1
+AREA,Surface area (ha),1
+DEPMAX,Maximum depth (m),1
+DEPMN,Mean depth (m),1
+MAT,Mean air temperature (1981-2010 Norm),1
+GDD,Degree Days above 5C (1981-2010 Norm),1
+SEC,Secchi Depth Summer (m),1
+TP,Total Phosphorus (ug/L),1
+COND,Conductivity (mg/L),1
+DOC,Dissolved Organc Carbon (mg/L),1
+RICH,Number of fish species based on BsM survey,1
+AP,Estimated Angling pressure (see Chu et al. 2016 for methods),1
+AP_Flag,=1 implies Angling Pressure assigned mean for the FMZ (data was missing),
+PA1...PA55,Species Presence PCoA axes,1
+Bio1...Bio30,Species Biomass PCoA axes,1
+Size Interval,Idenifies a fish size interval using log2(Body Mass),2
+Body Mass,Minimum Body Mass in the Size Interval (g),2
+Interval Width,Width of the Size Interval 9g),2
+"NPUE200,Catch-per-unit-Effort (# of fish/200 m of net),""2,3"""
+"BPUE200,Biomass-per-unit-Effort (kg of fish/200 m of net),""2,3"""
+"Spc,Code identifying a fish species,""3,4"""
+SpcNameScientific,Scientific name for fish species,4
+SpcNameCommon,Common name for fish species,4
